@@ -29,10 +29,10 @@
     line-height: 40px;
     align-items: center;
 }
+.col-sm-6{
+    margin-top: 1em !important;
+}
 .card-header{
     color:white !important;
     background-color: black !important;
-}
-.col-sm-6{
-    margin-top: 1em !important;
 }
